@@ -6,7 +6,9 @@
 	</head>
 	
 	<body>
-		<?php require 'entries.php';?>
+		<?php 
+			require("entries.php");
+		?>
 		<h1> Wanted Artists & Music </h1>
 		<h3> Want to add a new entry?</h3>
 			 <form>
